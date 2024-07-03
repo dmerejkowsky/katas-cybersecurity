@@ -10,8 +10,9 @@ Ainsi, à partir du [date dans 2 mois], lors de votre première connexion, il vo
 ainsi qu’un numéro de portable.
 
 Ces informations permettront:
-·        De confirmer votre identité lors de différentes connexions aux outils bureautiques (Outlook, Teams, etc.).
-·        D’être autonome pour réinitialiser votre mot de passe même en cas de perte ou d’oubli.
+
+* De confirmer votre identité lors de différentes connexions aux outils bureautiques (Outlook, Teams, etc.)
+* D’être autonome pour réinitialiser votre mot de passe même en cas de perte ou d’oubli.
 
 Ces informations resteront confidentielles et vous seuls y aurez accès!
 
